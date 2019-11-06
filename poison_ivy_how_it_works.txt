@@ -1,49 +1,66 @@
 ﻿## allergy cause, eczema cause, asthma cause, allergic rhinitis cause - CAAC
 
 
-allergen desensitization
-the information in this video is
-intended for educational purposes only
-you should consult your physician before
-considering treatment there should not
-rely on this information alone non
-allergic reactions
 under normal circumstances when an
 individual encounter an allergen for the
 first time the allergen would enter the
-antigen-presenting cells or APCs these
+antigen-presenting cells or APCs 
+
+these
 APCs would then enter the lymphatic
-system and when they meet T cells called
+system 
+
+and when they meet T cells called
 th zero cells these T cells would
 transform into th one cell
+
 the th1 cells would interact with
 b-cells releasing several cytokines
 including interleukin 12 interferon
-gamma and the b-cells will be stimulated
-to produce IgG antibodies IgG antibody
+gamma 
+
+and the b-cells will be stimulated
+to produce IgG antibodies 
+
+IgG antibody
 is a protective antibody and will not
 result in an allergic reaction this is a
-normal reaction cause of allergy in
+normal reaction 
+
+cause of allergy 
+
+in
 patients who have an allergic tendency
 when allergens enter the APC and the APC
 enters the lymphatic system and interact
-and activate th0 cells some th0 cells
-would turn into th2 cells these th2
+and activate th0 cells 
+
+some th0 cells
+would turn into th2 cells 
+
+these th2
 cells would interact with b-cells and
 release cytokines including interleukin
 4 interleukin 5 in interleukin 13
 causing B cells to produce IgE
-antibodies this IgE antibody response is
+antibodies 
+
+this IgE antibody response is
 abnormal and is the basic cause of
-allergy diseases caused by IgE include
+allergy 
+
+diseases caused by IgE include
 logic rhinitis skin allergy asthma
 insect allergy some drug allergies and
-some food allergies excessive tx2
+some food allergies 
+
+excessive th2
 activity would also suppress the
-activity of th1 and a strong th2
+activity of th1 
+
+and a strong th2
 response would result in allergic
 reactions
-you
 
 
 
